@@ -1,0 +1,10 @@
+# Premium whitelist (one user per line)
+# Format 1: discord_username
+# Format 2: discord_username|optional_hwid_sha256
+#
+# Examples:
+# AlexeyAngellov
+# Sharpness_I
+# UserWithHWID|0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef
+
+AlexeyAngellov
